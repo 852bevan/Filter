@@ -1,1 +1,2 @@
 ||twitter.com^
+||twitter.com^$third-party
